@@ -1,9 +1,9 @@
 # spark-sql-big-data
 
-# Praktikum 1
 
 
-# Praktikum 2
+
+## Praktikum 2
 
 1.mylist , myschema : dua variabel dalam Python yang digunakan untuk membuat DataFrame di PySpark. mylist adalah daftar item, sedangkan myschema adalah daftar string yang mendefinisikan nama kolom DataFrame.
 
